@@ -9,6 +9,7 @@ import os
 import sqlite3
 
 
+"""Planning Application"""
 
 customtkinter.set_appearance_mode("light")
 customtkinter.set_default_color_theme("blue")
@@ -46,6 +47,7 @@ list_category_prod = ["Fruits", "Graines", "Liquide", "Feuillages", "Autres"]
 list_mesure_produit = ["Kilogramme", "Sacs", "Litres", "Gramme", "Autres Mesures"]
 
 #### -column, -columnspan, -in, -ipadx, -ipady, -padx, -pady, -row, -rowspan, or -sticky 
+
 
 
 #### SI MESSAGE, REGARDER LES POSITIONNEMENTS ICI
